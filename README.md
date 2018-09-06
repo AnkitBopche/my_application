@@ -1,3 +1,2 @@
-# my_application
-Angular Application
-am going to add some new file referenced parthvaghelaHD
+# parthvaghelahd.github.io
+My new Angular App
